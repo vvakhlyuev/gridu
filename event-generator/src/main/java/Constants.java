@@ -1,0 +1,76 @@
+import java.util.Arrays;
+import java.util.List;
+
+/**
+ * Created by vvakhlyuev on 02/07/2017.
+ */
+public class Constants {
+    public static final List<String> categories = Arrays.asList(
+            "Art",
+            "Baby",
+            "Books",
+            "Business & Industrial",
+            "Cameras & Photo",
+            "Cell Phones & Accessories",
+            "Clothing Shoes & Accessories",
+            "Consumer Electronics",
+            "Health & Beauty",
+            "Home & Garden",
+            "Music",
+            "Sporting Goods",
+            "Toys & Hobbies",
+            "Travel",
+            "Video Games & Consoles"
+    );
+
+    public static final List<String> products = Arrays.asList(
+            "Baby Jogger",
+            "Cosatto Giggle 3 in 1",
+            "Bugaboo Cameleon 3",
+            "4Pcs Infant Kids Baby Unisex Feeding Saliva",
+            "Baby Infant Toddler Cotton Triangle Bibs",
+            "Baby Toddler Food Cereal",
+            "The Best of Waffles and Pancakes by Jane Stacey",
+            "Cooking for Your Cat: Healthy Homemade",
+            "1000 Vegetarian Recipes by Carol Gelles Cookbook",
+            "AMERICA'S BEST RECIPES COOKBOOK",
+            "1888 6th Edition Origin Of The Species Charles Darwin Pub John Murray",
+            "The Ascent Of Everest 1953 First Edition Signed x2",
+            "Lot of 8 Star Wars Books - Mixed lot hardcover and paperback",
+            "Dark-Hunter Manga: The Dark-Hunters 1 by Sherrilyn Kenyon",
+            "Scholastic The Chronicles of Narnia 7 Book Box Set",
+            "The Bazaar of Bad Dreams by Stephen King",
+            "New Executive High Back Mesh Computer Office Chair",
+            "Cartoon Print Sticker Office Post It Bookmark",
+            "Multicolor Cute Sticker Bookmark Sticky Notes Point",
+            "LA OC 12Pcs Box 0.5mm Black Gel Ink",
+            "Verifone VX520 Credit Card Machine Terminal",
+            "Regular Garment Price Label Tag Tagging Gun 2000 Barbs",
+            "Frame Glasses Stand Rack Holder 2 Row 10 Pair Sunglasses Display Organizer",
+            "CLOVER MINI TABLET CASH REGISTER SWIVEL",
+            "Nike Air Jordan 4 Retro Black",
+            "Men's Outdoor Sneakers sports shoes",
+            "Men's Ariat ATS Brown Leather Slip-on Cowboy Boots",
+            "NWOB! Skechers WORK Boots",
+            "New fashion men and women breathable sports",
+            "Roebuck 24-8464 Socket Set",
+            "PSYCHOMANIA",
+            "Boardwalk Empire: The Complete Series season",
+            "2017 NEW Bates Motel Season 5",
+            "Game of Thrones Seasons 1-6 Box Set Blu-Ray",
+            "Lady and the Tramp",
+            "Outdoor Garden Stainless Steel LED Solar Path Landscape",
+            "Hot Toys Star Wars: The Force Awakens",
+            "Hot Wheels Hasbro Lot of 4 Batman Cars Diecast",
+            "Star Wars Character Cars Hot Wheels",
+            "Hand Spinner Tri Fidget Finger Fingertip",
+            "Green Hot Tri EDC Hand Spinner Fidget",
+            "10-PACK LED Fidget Spinner Tri-Spinner",
+            "Round Wheel Car",
+            "Family Trainer",
+            "PC-Spiele Set DVD",
+            "Onimusha: Dawn Of Dreams",
+            "For Honor Gold Edition Ubisoft 2017",
+            "Pro Evolution Soccer 4",
+            "Street Fighter V");
+}
